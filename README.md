@@ -1,4 +1,4 @@
-# ChronoPulse AI: Luxury Watch Market Intelligence Engine
+# Aspect-Sentiment Watch Insights: AI-Powered Market Intelligence Engine
 
 ChronoPulse AI is a high-performance, production-ready social listening and Aspect-Based Sentiment Analysis (ABSA) pipeline. It is specifically engineered to solve the market research problem of tracking consumer perception for premium and luxury watch brands across digital touchpoints.
 
